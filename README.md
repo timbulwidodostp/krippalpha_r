@@ -1,6 +1,8 @@
 # krippalpha_r
 Compute Krippendorff‘s intercoder reliability coefficient Alpha Use krippalpha (kripp.alpha) With (In) R Software
 
+https://www.youtube.com/watch?v=5QLj9TFLE_Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
